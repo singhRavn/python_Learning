@@ -5,6 +5,7 @@ class Pet:
         self.age = age
 
 #Class newClass inheriting from the class Pet
+# mechanism of inhereting properties of base class to child class.
 
 class newClass(Pet):
     def __init__(self,name,age):
