@@ -3,6 +3,7 @@ Pre-order Traversal is done by visiting the root node first,
 then recursively do a pre-order traversal of the left subtree, 
 followed by a recursive pre-order traversal of the right subtree.
 It's used for creating a copy of the tree, prefix notation of an expression tree, etc.
+
 '''
 
 class TreeNode:
