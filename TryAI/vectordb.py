@@ -6,3 +6,5 @@ Each object is assigned a vector that captures various characteristics or featur
 These vectors are designed in such a way that similar objects have vectors that are closer
 to each other in the vector space, while dissimilar objects have vectors that are farther apart.
 '''
+
+""
