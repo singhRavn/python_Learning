@@ -19,3 +19,10 @@ print()
 # checking elements using "in" keyword
 print("Value" in Set)
 print("output" in Set)
+
+# Remove Set Item
+thisset = {"apple", "banana", "cherry"}
+
+thisset.remove("banana")
+
+print(thisset)
