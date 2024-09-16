@@ -15,3 +15,9 @@ print(Dict.get(1))
 
 myDict = {x:x**2 for x in [1,2,3,4] }
 print(myDict)
+
+'''Nested Dict'''
+Dict = {1: 'Geeks', 2: 'For',
+        3: {'A': 'Welcome', 'B': 'To', 'C': 'Geeks'}}
+
+print(Dict)
